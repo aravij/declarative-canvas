@@ -10,5 +10,8 @@
     "canvas"
   ],
   "author": "Kishchenko Yaroslav",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.8.2"
+  }
 }
